@@ -1,8 +1,14 @@
-# React + Vite
+# RevenueHunt-Test-2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+He creado 3 columnas responsive. Utilicé Vite + React, implementación de shopify polaris, tailwind, daisyUI. Para la lógica he utilizado context para el cambio de color del botón y su border-radius.
 
-Currently, two official plugins are available:
+Pasos para la instalación:
+- Descargar repositorio.
+- Una vez abierto en tu terminal de tu editor de código favorito realizar un npm install.
+- El proyecto se levanta con npm run dev o realizar un npm run build y luego un npm run preview para ver un prev de la producción.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Imagen 1:
+![screenShot01](public/img/revenue-home.png)
+
+Imagen 2:
+![screenShot01](public/img/revenue-home-2.png)
